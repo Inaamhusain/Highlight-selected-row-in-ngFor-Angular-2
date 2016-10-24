@@ -1,10 +1,10 @@
-# single-page-application-angular2
+# Highlight-selected-row-in-ngFor-Angular-2
 
 ### Quick Setup
-- `$ git clone https://github.com/rahil471/single-page-application-angular2.git`
+- `$ git clone https://github.com/Inaamhusain/Highlight-selected-row-in-ngFor-Angular-2.git`
 - Navigate into the directory using command line interface
 - `$ npm install`
 - `$ npm start`
 
 ### Full Tutorial
-*Visit* - https://code.ciphertrick.com/2016/07/26/build-single-page-application-angular-2/
+*Visit* - 
