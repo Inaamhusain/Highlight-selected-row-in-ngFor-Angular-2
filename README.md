@@ -7,4 +7,4 @@
 - `$ npm start`
 
 ### Full Tutorial
-*Visit* - 
+*Visit* - https://code.ciphertrick.com/2016/10/26/highlight-selected-row-in-ngfor-angular-2/
